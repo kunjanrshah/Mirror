@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/41/trunk/Mirror
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/41/trunk/Mirror/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/36/trunk/Mirror/project.properties
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/36/trunk/Mirror/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/36/trunk/Mirror/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/41/trunk/Mirror/AndroidManifest.xml
+END
+ic_launcher-web.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/36/trunk/Mirror/ic_launcher-web.png
+END
